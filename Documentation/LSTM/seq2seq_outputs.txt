@@ -1,0 +1,14 @@
+Input: "the weather in paris during the fall is usually pleasant and sometimes rainy"
+Output: "californie est le enneigée pendant l' automne mais il est généralement pluvieux en hiver"
+
+Input: "i like apples and oranges but my least favorite fruit is grapefruit"
+Output: "california les pommes pommes et pommes et il pommes pamplemousse"
+
+Input: "we went to the eiffel tower during our visit to paris it was beautiful"
+Output: "le relaxant est jamais relaxant en décembre mais il est relaxant habituellement en avril"
+
+Input: "they did plan to visit the grocery store but it is rainy"
+Output: "comment de se rendre aux états unis en la se unis paris"
+
+Input: "i think i like spanish but i think it is difficult"
+Output: "je pense qu'il est temps de traduire entre l' espagnol et l' espagnol"

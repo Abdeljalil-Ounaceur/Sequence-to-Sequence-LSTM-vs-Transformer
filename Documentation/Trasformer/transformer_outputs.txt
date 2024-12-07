@@ -1,0 +1,14 @@
+Input: "the weather in paris during the fall is usually pleasant and sometimes rainy"
+Output: "le raisin est le paris l' automne mais il est parfois agréable en pluvieux en et il "
+
+Input: "i like apples and oranges but my least favorite fruit is grapefruit"
+Output: "j'aime les pommes et le moins préféré est le moins préféré "
+
+Input: "we went to the eiffel tower during our visit to paris it was beautiful"
+Output: "nous prévoyons de visiter la tour eiffel est beau en été" 
+
+Input: "they did plan to visit the grocery store but it is rainy"
+Output: "ils ont l' intention de visiter la grosse voiture mais il est pluvieux en pluvieux en automne "
+
+Input: "i think i like spanish but i think it is difficult"
+Output: "je pense qu'il est espagnol espagnol mais il est difficile de monde en est difficile "
