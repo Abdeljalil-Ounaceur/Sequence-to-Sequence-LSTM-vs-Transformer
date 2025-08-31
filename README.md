@@ -10,7 +10,8 @@ This project implements and compares two popular sequence-to-sequence architectu
 
 Both models are trained on English-French sentence pairs to perform machine translation tasks.
 
-**Note:** For detailed comparison results and model outputs, please consult the `Documentation/` folder which contains comprehensive translation examples from both models.
+
+> **Note:** For detailed comparison results and model outputs, please consult the `Documentation/` folder.
 
 ## 🏗️ Project Structure
 
@@ -29,7 +30,7 @@ Both models are trained on English-French sentence pairs to perform machine tran
 │       ├── transformer_outputs.txt # Transformer translation examples
 │       └── transformer.keras      # Saved Transformer model
 ├── others/
-│   ├── myseq2seq.py              # Simple seq2seq example
+│   ├── seq2seq_demo.py              # Simple seq2seq example
 │   └── keras/
 │       ├── lstm_seq2seq.py       # Character-level LSTM seq2seq
 │       ├── fra.txt               # French-English dataset
@@ -146,7 +147,7 @@ python lstm_seq2seq.py
 ### Simple Seq2Seq Demo
 ```bash
 cd others
-python myseq2seq.py
+python seq2seq_demo.py
 ```
 
 ## 🎯 Key Features
